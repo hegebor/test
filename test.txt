@@ -2,6 +2,10 @@ test
 
 HEHGEHGEEHGGHEGHEGHGEHGEHGEH
 
+<<<<<<< HEAD
 Jajajajaja
 
 Endring i master
+=======
+Jajajajaja
+>>>>>>> Oeyvinds
